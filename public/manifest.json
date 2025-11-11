@@ -1,0 +1,19 @@
+{
+  "name": "CUET-T10 Cricket Tournament",
+  "short_name": "CUET-T10",
+  "description": "Live cricket scores and tournament updates for CUET T10 Cricket Tournament",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/T10.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
